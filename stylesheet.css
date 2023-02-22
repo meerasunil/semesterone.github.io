@@ -3,7 +3,7 @@ body { background-image: url(sort.png);
     
 }
 @font-face {
-    font-family:'Pillowlava';
+    font-family:'Pilowlava';
     src: url('./Pilowlava-Regular.woff') format('woff'),
     url('./Pilowlava-Regular.woff2') format('woff2');
     font-weight: 400;
@@ -11,10 +11,11 @@ body { background-image: url(sort.png);
     font-display: swap;
 }
 .title-large{
-    font-family: 'Pillowlava';
+    font-family: 'Pilowlava';
     font-size: 100px;
     text-transform: uppercase;
     line-height: 100%;
     margin: 0;
     text-align: center;
+    color: rgb(0, 0, 0);
 }
