@@ -16,4 +16,15 @@ body {
     line-height: 100%;
     text-align: right;
     bottom: 0;
+    position: absolute;
 }
+a :hover{ 
+    opacity:0 ;
+    transition: opacity .3s ease;
+
+    transition-property: opacity transform;
+    transition-duration: .3s;
+    transition-timing-function: ease;
+   cursor: url(bodyknot.png), auto;
+}
+    
