@@ -5,6 +5,7 @@ background-size: 100vh, 100vw;}
 
 p {font-family: helvetica;
     color: white;
+    font-size: 16px;
 }
 
 
@@ -13,10 +14,10 @@ p {font-family: helvetica;
     p {font-size: 6em;}
 }@media only screen and (min-width: 600px){
     body {background-image: url(tree.JPG);}
-p {font-size: 1em;}
+p {font-size: 10em;}
 }@media only screen and (min-width: 992px) {
     body {background-image: url(pinksm.jpg);}
-    p {font-size: 32em ;}
+    p {font-size: 15em ;}
 }@media only screen and (min-width: 1200px) {
     body {background-image: url(pink.jpg);}
     p {font-size: 1em}}
