@@ -1,0 +1,40 @@
+.flex-container {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: space-around; 
+  
+  }
+  
+  .flex-container > div {
+    background-color: #f1f1f1;
+    margin: 20px;
+    padding: 20px;
+    font-size: 30px;
+    width: 500px;
+    overflow: scroll;
+    
+  }
+.title-large{
+  font-family: 'Pilowlava';
+  font-size: 4em;
+  text-transform: uppercase;
+  line-height: 100%;
+  margin: 0;
+  text-align: center;
+  color: rgb(111, 6, 6);
+}
+h1 {font-family: 'ApfelGrotezk-Brukt';
+  font-size: 1em;
+  text-transform: uppercase;
+  line-height: 100%;
+  margin: 0;
+  text-align: center;
+}
+p{font-family: 'Abril Fatface';
+  font-size: 1em;
+  text-transform: uppercase;
+  line-height: 100%;
+  margin: 0;
+  text-align: center;;
+}
