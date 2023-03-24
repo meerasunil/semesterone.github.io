@@ -9,6 +9,9 @@
   display: grid;
   justify-items: center;
   empty-cells: show;
+  font-family: helvetica;
+  font-weight: lighter;
+
 
 
  grid-template-areas:
