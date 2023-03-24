@@ -1,0 +1,141 @@
+@media only screen and (min-width: 1200px) {
+
+.wrapper {
+ grid-template-columns: 1fr, 1fr, 1fr;
+  grid-template-rows: 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr, 1fr;
+  gap: 0%;
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  justify-items: center;
+  empty-cells: show;
+
+
+ grid-template-areas:
+ "heading one two"
+ "three five four"
+ "six seven eight"
+ "nine ten eleven"
+ "twelve thirteen . "
+ "fourteen fiteen . "
+ "sixteen seventeen eighteen" 
+ "nineteen . twenty";
+
+ 
+
+
+}
+
+.heading {
+  grid-column-start: 1;
+  grid-row-start: 1;
+  grid-area: "heading";
+}
+.one {
+  grid-column-start: 2;
+  grid-row: 1;
+  grid-area: "one";
+  
+}
+.two {
+  grid-column-start: 3;
+  grid-row: 1;
+  grid-area: "two";
+}
+.three {
+  grid-column: 1;
+  grid-row:  2;
+  grid-area: "three";
+}
+.four {
+  grid-column: 3;
+  grid-row: 2;
+  grid-area: "four";
+}
+.five {
+  grid-column: 2;
+  grid-row:2;
+  grid-area: "five";
+}
+.six {
+  grid-column: 1;
+  grid-row: 3;
+  grid-area: six;
+}
+.seven {
+    grid-column: 2;
+    grid-row: 3;
+    grid-area: seven;
+  }
+  .eight {
+    grid-column: 3;
+    grid-row: 3;
+    grid-area: eight;
+  }
+  .nine {
+    grid-column: 1;
+    grid-row: 4;
+    grid-area: nine;
+  }
+  .ten {
+    grid-column: 2;
+    grid-row: 4;
+    grid-area: ten;
+  }
+  .eleven {
+    grid-column:3;
+    grid-row: 4;
+    grid-area: eleven;
+  }
+  .twelve {
+    grid-column: 1;
+    grid-row: 5;
+    grid-area: twelve;
+  }
+  .thirteen {
+    grid-column: 2;
+    grid-row: 5;
+    grid-area: thirteen;
+  }
+  .fourteen {
+    grid-column:1;
+    grid-row: 6;
+    grid-area: fourteen;
+  }
+  .fifteen {
+    grid-column: 2;
+    grid-row: 6;
+    grid-area: fifteen;
+  }
+  .sixteen {
+    grid-column: 1;
+    grid-row: 7;
+    grid-area: sixteen;
+  }
+  .seventeen {
+    grid-column: 2;
+    grid-row: 7;
+    grid-area: seventeen;
+  }
+  .eighteen {
+    grid-column: 3;
+    grid-row: 7;
+    grid-area: eighteen;
+  }
+  .nineteen {
+    grid-column: 1;
+    grid-row: 8;
+    grid-area: nineteen;
+  }
+  .twenty {
+    grid-column: 3;
+    grid-row: 8;
+    grid-area: twenty;
+  }
+
+  h1{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+
+}
