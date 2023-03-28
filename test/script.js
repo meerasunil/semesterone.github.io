@@ -33,7 +33,7 @@ base("playlist")
         airtableItem.classList.add("airtable-item");
         // set the data-year attribute equal to the value of the record year
         // this will be used to sort items
-        airtableItem.setAttribute("data-year", record.fields.year);
+        airtableItem.setAttribute("data-year", record.fields.date);
         // set the data-location attribute equal to the value of the record location
         // this will be used to filter items
         airtableItem.setAttribute("data-location", record.fields.location);
@@ -52,7 +52,7 @@ base("playlist")
         // add a class to the button element
         drawerButtonTitle.classList.add("drawer-button--title");
         // render the value of the record's title
-        drawerButtonTitle.innerHTML = record.fields.title;
+        drawerButtonTitle.innerHTML = record.fields.name;
         // append the button element to the airtableItem div element created above
         drawerButton.append(drawerButtonTitle);
 
@@ -61,7 +61,7 @@ base("playlist")
         // add a class to the button element
         drawerButtonInfo.classList.add("drawer-button--info");
         // render the value of the record's title
-        drawerButtonInfo.innerHTML = `${record.fields.artist}, ${record.fields.year[0]}`;
+        drawerButtonInfo.innerHTML = `${record.fields.Brand}, ${record.fields.date[0]}`;
         // append the button element to the airtableItem div element created above
         drawerButton.append(drawerButtonInfo);
 
@@ -81,16 +81,7 @@ base("playlist")
         if (index == 0) {
           airtableItem.classList.add("is-open");
         }
-
-        // create a div element for the record's description
-        let drawerContentDescription = document.createElement("div");
-        // add a class to the description element
-        drawerContentDescription.classList.add("drawer-content--description");
-        // render the record's desription in the html
-        drawerContentDescription.innerHTML = record.fields.description;
-        // append the div element to the airtableItem div element created above
-        drawerContent.append(drawerContentDescription);
-
+        
         // create a div element for the record's description
         let drawerContentImageTable = document.createElement("div");
         // add a class to the description element
