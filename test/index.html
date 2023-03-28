@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Airtable API</title>
+
+    <!-- add reset to create consistency between browsers and devices. -->
+    <link rel="stylesheet" type="text/css" href="./reset.css">
+    <link rel="stylesheet" type="text/css" href="./main.css">
+
+    <!-- add link to your javascript. be sure it includes "defer" -->
+    <script type="text/javascript" src="./airtable.browser.js" defer></script>
+</head>
+    <body>
+        <header class="header">
+            <h1>Weed bags</h1>
+        </header>
+        <main>
+            <div class="button-wrapper">
+                <div class="filters-container">
+                    <h2 class="subtitle">BY LOCATION</h2>
+                    <div class="filters"><button class="filter-btn is-active" data-filter="all" data-type="location">ALL</button></div>
+                    <button class= "filter-btn" data-location="NewYork">New York</button>
+                    <button class= "filter-btn" data-location="NewYork">Maryland</button>
+                    <button class= "filter-btn" data-location="NewYork">Washington</button>
+                    
+                </div>
+                <div class="sort-container">
+                    <h2 class="subtitle">BY DATE</h2>
+                    <button class="sort-toggle" data-type="ascend">NEWEST</button>
+                </div>
+            </div>
+            <div class="content-container">
+                    
+            </div>
+        </main>
+        <script type="text/javascript" src="./script.js" defer></script>
+    </body>
+</html>
