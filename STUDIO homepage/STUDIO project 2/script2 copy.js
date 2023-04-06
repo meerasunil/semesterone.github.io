@@ -9,6 +9,7 @@ let popup = document.createElement("div");
 popup.classList.add("popup");
 document.body.append(popup);
 
+
 base("Table 1")
   .select({
     // maxRecords: 50,
