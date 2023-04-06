@@ -58,7 +58,9 @@ body {
 h1 {
   font-family:'Lithops';
   src: url(./lithops-main/fonts/Lithops-Regular.ttf) format('ttf');
-  color: white;
+  color: lightyellow;
+  font-size: 10em;
+  position: relative;
 }
 .airtable-item.Red .nickname {
   color: red;
