@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="H" format="2">
+	<advance width="1460"/>
+	<unicode hex="0048"/>
+	<unicode hex="0068"/>
+	<outline>
+		<component base="_part.Hstem"/>
+		<component base="_part.Hstem" yScale="-1" yOffset="1440"/>
+		<component base="_part.Hstem" xScale="-1" xOffset="1460"/>
+		<component base="_part.Hstem" xScale="-1" yScale="-1" xOffset="1460" yOffset="1440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft" format="2">
+	<advance width="774"/>
+	<unicode hex="005B"/>
+	<guideline x="-7" y="17" angle="0"/>
+	<outline>
+		<component base="_part.bracket"/>
+		<component base="_part.bracket" yScale="-1" yOffset="1440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

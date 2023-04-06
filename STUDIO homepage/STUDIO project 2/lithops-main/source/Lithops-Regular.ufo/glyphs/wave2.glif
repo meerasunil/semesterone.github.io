@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wave2" format="2">
+	<advance width="729"/>
+	<guideline x="422" y="1073" angle="90"/>
+	<guideline x="38" y="1088" angle="90"/>
+	<guideline x="18" y="1059" angle="0"/>
+	<outline>
+		<component base="wave" xScale="0" xyScale="1" yScale="0" yxScale="-1" xOffset="1427" yOffset="974"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

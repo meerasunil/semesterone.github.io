@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D" format="2">
+	<advance width="1248"/>
+	<outline>
+		<component base="_part.Bstem"/>
+		<component base="_part.Bstem" yScale="-1" yOffset="720"/>
+		<component base="_part.Dbowl" xOffset="139"/>
+		<component base="_part.Dbowl" yScale="-1" xOffset="139" yOffset="720"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_part.Bstem</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

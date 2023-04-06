@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eth" format="2">
+	<advance width="1386"/>
+	<unicode hex="00D0"/>
+	<unicode hex="00F0"/>
+	<outline>
+		<component base="D" xOffset="138"/>
+		<component base="_part.baraccent"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

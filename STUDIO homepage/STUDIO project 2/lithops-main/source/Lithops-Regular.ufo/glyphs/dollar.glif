@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dollar" format="2">
+	<advance width="1094"/>
+	<unicode hex="0024"/>
+	<outline>
+		<component base="S"/>
+		<component base="_part.Q" xOffset="312" yOffset="-150"/>
+		<component base="_part.Q" yScale="-1" xOffset="312" yOffset="1590"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

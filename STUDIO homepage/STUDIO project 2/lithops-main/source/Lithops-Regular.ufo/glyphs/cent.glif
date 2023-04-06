@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+	<advance width="1238"/>
+	<unicode hex="00A2"/>
+	<outline>
+		<component base="C"/>
+		<component base="_part.Q" xOffset="542" yOffset="-150"/>
+		<component base="_part.Q" yScale="-1" xOffset="542" yOffset="1590"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

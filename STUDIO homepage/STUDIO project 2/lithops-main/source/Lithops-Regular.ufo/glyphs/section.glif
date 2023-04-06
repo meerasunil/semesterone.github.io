@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="section" format="2">
+	<advance width="812"/>
+	<unicode hex="00A7"/>
+	<guideline x="886" y="-87" angle="0"/>
+	<outline>
+		<component base="_part.section"/>
+		<component base="_part.section" xScale="-1" yScale="-1" xOffset="812" yOffset="1440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,46 @@
+.box3 {
+  display: inline-block;
+  width: 400px;
+  height: 300px;
+  margin: 1em;
+  overflow: scroll;
+}
+  .fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+  }
+  .fixed2 {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 200px;
+  }
+  .box2 {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+.footer {
+  position:fixed;
+  left:0;
+  bottom: 0;
+  width: 100%;
+}
+nav {
+  float: left;
+  width: 200px;
+  border-width: 2px;
+  border-color: black;
+} 
+.title-large{
+  font-family: 'arial';
+  font-size: 100px;
+  text-transform: uppercase;
+  line-height: 100%;
+  text-align: right;
+  color: white;
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand" format="2">
+	<advance width="1078"/>
+	<unicode hex="0026"/>
+	<guideline x="326" y="715" angle="0"/>
+	<guideline x="395" y="6" angle="0"/>
+	<outline>
+		<component base="three" xScale="-1" xOffset="1078"/>
+		<component base="_part.Q" xOffset="302" yOffset="-150"/>
+		<component base="_part.Q" yScale="-1" xOffset="302" yOffset="1590"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

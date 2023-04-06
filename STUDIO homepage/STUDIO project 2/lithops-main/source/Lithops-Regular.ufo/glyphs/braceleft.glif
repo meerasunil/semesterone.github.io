@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+	<advance width="774"/>
+	<unicode hex="007B"/>
+	<outline>
+		<component base="_part.brace"/>
+		<component base="_part.brace" yScale="-1" yOffset="1440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

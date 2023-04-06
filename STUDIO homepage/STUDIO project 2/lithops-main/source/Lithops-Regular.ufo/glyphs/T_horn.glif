@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Thorn" format="2">
+	<advance width="1118"/>
+	<unicode hex="00DE"/>
+	<unicode hex="00FE"/>
+	<outline>
+		<component base="_part.Estem"/>
+		<component base="_part.Estem" yScale="-1" yOffset="1440"/>
+		<component base="_part.thorn" xOffset="574"/>
+		<component base="_part.thorn" yScale="-1" xOffset="574" yOffset="1440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

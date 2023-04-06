@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="I" format="2">
+	<advance width="784"/>
+	<unicode hex="0049"/>
+	<guideline x="338" y="703" angle="0"/>
+	<outline>
+		<component base="_part.Istem"/>
+		<component base="_part.Istem" xScale="-1" xOffset="784"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<integer>0</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Istem</string>
+				</dict>
+				<dict>
+					<key>index</key>
+					<integer>1</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Istem</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

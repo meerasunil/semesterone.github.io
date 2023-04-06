@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="2">
+	<advance width="1352"/>
+	<unicode hex="00DC"/>
+	<unicode hex="00FC"/>
+	<outline>
+		<component base="U"/>
+		<component base="dieresis" xOffset="382"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

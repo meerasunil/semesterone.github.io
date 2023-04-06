@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_part.slash" format="2">
+	<advance width="672"/>
+	<outline>
+		<contour>
+			<point x="220" y="720" type="move"/>
+			<point x="220" y="712"/>
+			<point x="214" y="700"/>
+			<point x="196" y="700" type="curve"/>
+			<point x="182" y="700"/>
+			<point x="170" y="710"/>
+			<point x="170" y="720" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

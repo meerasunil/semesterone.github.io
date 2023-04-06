@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Racute" format="2">
+	<advance width="1166"/>
+	<unicode hex="0154"/>
+	<unicode hex="0155"/>
+	<outline>
+		<component base="R"/>
+		<component base="acutecomb" xOffset="358"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

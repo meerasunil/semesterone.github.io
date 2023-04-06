@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="2">
+	<advance width="1352"/>
+	<unicode hex="0054"/>
+	<unicode hex="0074"/>
+	<outline>
+		<component base="_part.Tserif"/>
+		<component base="I" xOffset="284"/>
+		<component base="_part.Tserif" xScale="-1" xOffset="1352"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<integer>0</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Tserif</string>
+				</dict>
+				<dict>
+					<key>index</key>
+					<integer>1</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>I</string>
+				</dict>
+				<dict>
+					<key>index</key>
+					<integer>2</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Tserif</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

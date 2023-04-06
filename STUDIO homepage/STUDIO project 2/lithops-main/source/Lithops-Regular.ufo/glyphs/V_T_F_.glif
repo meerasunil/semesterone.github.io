@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="VTF" format="2">
+	<advance width="1525"/>
+	<outline>
+		<component base="T" xScale="0.4964" yScale="0.4964" xOffset="484" yOffset="706"/>
+		<component base="F" xScale="0.4964" yScale="0.4964" xOffset="976" yOffset="192"/>
+		<component base="V" xScale="0.498" yScale="0.498" xOffset="10" yOffset="342"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

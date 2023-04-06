@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+	<advance width="740"/>
+	<unicode hex="005E"/>
+	<guideline x="1" y="0" angle="0"/>
+	<guideline x="361" y="439" angle="90"/>
+	<outline>
+		<component base="circumflexcomb" xScale="1.3566" yScale="1.3566" xOffset="-7" yOffset="-598"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

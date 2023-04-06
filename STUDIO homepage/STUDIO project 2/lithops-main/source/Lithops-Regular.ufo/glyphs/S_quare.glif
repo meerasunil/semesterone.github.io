@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Square" format="2">
+	<advance width="2663"/>
+	<outline>
+		<component base="cornersquare" xScale="1.21" yScale="1.21" xOffset="-4" yOffset="276"/>
+		<component base="cornersquare" xScale="1.21" yScale="-1.21" xOffset="-4" yOffset="1164"/>
+		<component base="line" xScale="1.21" yScale="1.21" xOffset="-4" yOffset="-571"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="2617" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="2617" yOffset="-18"/>
+		<component base="cornersquare" xScale="-1.21" yScale="1.21" xOffset="2667" yOffset="276"/>
+		<component base="cornersquare" xScale="-1.21" yScale="-1.21" xOffset="2667" yOffset="1164"/>
+		<component base="line" xScale="-1.21" yScale="1.21" xOffset="2667" yOffset="-571"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

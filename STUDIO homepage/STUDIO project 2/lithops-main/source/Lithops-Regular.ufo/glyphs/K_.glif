@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K" format="2">
+	<advance width="1352"/>
+	<unicode hex="004B"/>
+	<unicode hex="006B"/>
+	<guideline y="0"/>
+	<outline>
+		<component base="_part.Kstem" yScale="-1" yOffset="1440"/>
+		<component base="_part.Kstem"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

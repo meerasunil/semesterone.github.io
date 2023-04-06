@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+	<advance width="1067"/>
+	<unicode hex="005A"/>
+	<unicode hex="007A"/>
+	<outline>
+		<component base="_part.Z"/>
+		<component base="_part.Z" xScale="-1" yScale="-1" xOffset="1067" yOffset="1440"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<integer>0</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Z</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

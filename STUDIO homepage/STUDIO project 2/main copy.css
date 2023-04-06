@@ -1,0 +1,137 @@
+.airtable-item{
+    height: 50vh;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 2em;
+    color: white;
+    position: relative;
+  }
+  .hover-image{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
+  }
+
+  .airtable-item:hover .hover-image{
+    opacity: 1;
+  }
+  .filter-show{
+    background-color:transparent;
+    display: block;
+  }
+  
+  .filter-hide{
+    display: none; 
+  }
+  @media only screen and (min-width: 1200px) {
+body {
+  background-image: url(./project\ 2b.jpg);
+  background-size:contain;
+}
+  }
+  @media only screen and (max-width: 600px) {
+    body {
+      background-image: url(./project\ 2b.jpg);
+      background-size: contain;
+    }
+      }
+  @media only screen and (min-width: 600px){
+    body {
+      background-image: url(./project\ 2b.jpg);
+      background-size: contain;
+    }
+      }
+  @media only screen and (min-width: 992px) {
+        body {
+          background-image: url(./project\ 2b.jpg);
+          background-size: contain;
+        }
+          }
+
+h1 {
+  font-family:'Lithops';
+  src: url(./lithops-main/fonts/Lithops-Regular.ttf) format('ttf');
+  color: white;
+}
+.airtable-item.Red .nickname {
+  color: red;
+}
+.airtable-item.Purple .nickname {
+  color: purple;
+}
+.airtable-item.Orange .nickname {
+  color: orange;
+}
+.airtable-item.Brown .nickname {
+  color: brown;
+}
+.airtable-item.White .nickname {
+  color: white;
+}
+.airtable-item.Yellow .nickname {
+  color: rgb(219, 219, 156);
+}
+.airtable-item.Grey .nickname {
+  color: rgb(80, 78, 78);
+}
+.airtable-item.Beige .nickname {
+  color: rgb(242, 211, 185);
+}
+.airtable-item.Wine .nickname {
+  color: rgb(127, 8, 69);
+}
+.airtable-item.Black .nickname {
+  color: rgb(0, 0, 0);
+}
+
+.button { 
+  background-color: rgb(7, 83, 36);
+  font: Arial;
+  color: white;
+  border-radius: 40%;
+  border: transparent;
+  
+}
+.button2 { 
+  background-color: rgb(148, 33, 255);
+  color: white;
+  border-radius: 50%;
+  border: transparent;
+}
+.button23 {
+  background-color:transparent;
+  color: red;
+  border: black;
+}
+.button3 {
+  background-color:yellow;
+  border-radius: 10%;
+}
+.button4 {
+  background-color: red;
+  color: white;
+}
+.popup {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 1em;
+  font-family: helvetica;
+  border: 1px solid yellow;
+  color: white;
+  border-radius: 0.5em;
+  z-index: 999;
+  display: none;
+}
+
+.popup.show {
+  display: block;
+}

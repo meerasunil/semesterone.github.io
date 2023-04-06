@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="2">
+	<advance width="608"/>
+	<unicode hex="0021"/>
+	<outline>
+		<component base="period" xOffset="122"/>
+		<component base="_part.exclam"/>
+		<component base="_part.exclam" xScale="-1" xOffset="608"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

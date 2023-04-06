@@ -1,0 +1,23 @@
+body {background-color: black;}
+.button {
+    background-color: #ff00dd;
+    border: none;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    top: 50%;
+  }
+  .title-large{
+    font-family: 'Apfel Grotezk Brukt';
+    font-size: 50px; 
+    line-height: 100%;
+    text-align: right;
+    bottom: 0;
+    color: chartreuse;
+}

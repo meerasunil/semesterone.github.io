@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Oslash" format="2">
+	<advance width="1470"/>
+	<unicode hex="00D8"/>
+	<unicode hex="00F8"/>
+	<outline>
+		<component base="O"/>
+		<component base="_part.Q" xScale="0.866" xyScale="-0.5" yScale="0.866" yxScale="0.5" xOffset="96" yOffset="84"/>
+		<component base="_part.Q" xScale="0.866" xyScale="-0.5" yScale="-0.866" yxScale="-0.5" xOffset="966" yOffset="1592"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

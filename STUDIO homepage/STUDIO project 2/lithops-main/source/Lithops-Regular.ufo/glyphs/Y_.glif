@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Y" format="2">
+	<advance width="1256"/>
+	<unicode hex="0059"/>
+	<unicode hex="0079"/>
+	<outline>
+		<component base="_part.Y"/>
+		<component base="_part.Y" xScale="-1" xOffset="1256"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>index</key>
+					<integer>0</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Y</string>
+				</dict>
+				<dict>
+					<key>index</key>
+					<integer>1</integer>
+					<key>locked</key>
+					<true/>
+					<key>name</key>
+					<string>_part.Y</string>
+				</dict>
+			</array>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

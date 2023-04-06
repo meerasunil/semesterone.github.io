@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>D</key>
+	<string>D_.glif</string>
+	<key>O</key>
+	<string>O_.glif</string>
+	<key>Thorn</key>
+	<string>T_horn.glif</string>
+	<key>_part.Glow</key>
+	<string>_part.G_low.glif</string>
+	<key>_part.Kstem</key>
+	<string>_part.K_stem.glif</string>
+	<key>_part.Mstemlow</key>
+	<string>_part.M_stemlow.glif</string>
+	<key>_part.Nhigh</key>
+	<string>_part.N_high.glif</string>
+	<key>_part.Nlow</key>
+	<string>_part.N_low.glif</string>
+	<key>_part.brace</key>
+	<string>_part.brace.glif</string>
+	<key>_part.five</key>
+	<string>_part.five.glif</string>
+	<key>_part.slash</key>
+	<string>_part.slash.glif</string>
+	<key>_part.tag</key>
+	<string>_part.tag.glif</string>
+	<key>brevecomb</key>
+	<string>brevecomb.glif</string>
+	<key>circumflexcomb</key>
+	<string>circumflexcomb.glif</string>
+	<key>emdash</key>
+	<string>emdash.glif</string>
+	<key>exclam</key>
+	<string>exclam.glif</string>
+	<key>guilsinglleft</key>
+	<string>guilsinglleft.glif</string>
+	<key>multiply</key>
+	<string>multiply.glif</string>
+	<key>one</key>
+	<string>one.glif</string>
+	<key>percent</key>
+	<string>percent.glif</string>
+	<key>tildecomb</key>
+	<string>tildecomb.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
+</dict>
+</plist>

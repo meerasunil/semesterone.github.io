@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LithopsPattern" format="2">
+	<advance width="11391"/>
+	<outline>
+		<component base="cornersquare" xScale="-1.21" yScale="-1.21" xOffset="931" yOffset="2850"/>
+		<component base="cornersquare" xScale="-1.21" yScale="1.21" xOffset="931" yOffset="-1410"/>
+		<component base="line" xScale="1.21" yScale="1.21" xOffset="20" yOffset="-571"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="2641" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="2641" yOffset="-18"/>
+		<component base="cornersquare" xScale="1.21" yScale="-1.21" xOffset="10460" yOffset="2850"/>
+		<component base="cornersquare" xScale="1.21" yScale="1.21" xOffset="10460" yOffset="-1410"/>
+		<component base="line" xScale="-1.21" yScale="1.21" xOffset="11371" yOffset="-571"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="4361" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="4361" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="5231" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="5231" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="6101" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="6101" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="6961" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="6961" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="7831" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="7831" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="8701" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="8701" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="9571" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="9571" yOffset="-18"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="10441" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="10441" yOffset="-18"/>
+		<component base="T" xOffset="3483"/>
+		<component base="H" xOffset="4808"/>
+		<component base="S" xOffset="8732"/>
+		<component base="O" xOffset="6252"/>
+		<component base="P" xOffset="7712"/>
+		<component base="L" xOffset="1622"/>
+		<component base="I" xOffset="2712"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="3501" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="3501" yOffset="-18"/>
+		<component base="bullet" xOffset="902"/>
+		<component base="line" xScale="0" xyScale="1.21" yScale="0" yxScale="-1.21" xOffset="11311" yOffset="1458"/>
+		<component base="line" xScale="0" xyScale="-1.21" yScale="0" yxScale="-1.21" xOffset="11311" yOffset="-18"/>
+		<component base="bullet" xOffset="9872"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>

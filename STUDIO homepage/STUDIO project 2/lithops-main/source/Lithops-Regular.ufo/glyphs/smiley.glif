@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="smiley" format="2">
+	<advance width="1388"/>
+	<guideline x="1414" y="140" angle="0"/>
+	<guideline x="694" y="894" angle="90"/>
+	<outline>
+		<component base="period" xOffset="706" yOffset="926"/>
+		<component base="parenleft" xScale="0" xyScale="1" yScale="0" yxScale="-1" xOffset="1414" yOffset="140"/>
+		<component base="period" xOffset="317" yOffset="926"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>public.markColor</key>
+			<string>0.06,0.6,0.98,1</string>
+		</dict>
+	</lib>
+</glyph>
